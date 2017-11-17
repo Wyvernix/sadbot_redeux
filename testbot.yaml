@@ -1,0 +1,6 @@
+botname: Sad_Bot
+oauth: 'oauth:aaaaxxxx'
+primaryChannel: '#shady1765'
+commandChar: $
+disabledSkills: [ test, test ]
+disabledCommands: [ CSGOCommand, PubgCommand, StrawPollCommand ]
