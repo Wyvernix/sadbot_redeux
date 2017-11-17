@@ -1,0 +1,62 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>moe.wyv</groupId>
+  <artifactId>Sad_Bot</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>jar</packaging>
+
+  <name>Sad_Bot</name>
+
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <maven.compiler.source>1.8</maven.compiler.source>
+    <maven.compiler.target>1.8</maven.compiler.target>
+  </properties>
+
+  <dependencies>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>3.8.1</version>
+      <scope>test</scope>
+    </dependency>
+    <dependency>
+    	<groupId>org.yaml</groupId>
+    	<artifactId>snakeyaml</artifactId>
+    	<version>1.18</version>
+    </dependency>
+    <dependency>
+    	<groupId>pircbot</groupId>
+    	<artifactId>pircbot</artifactId>
+    	<version>1.5.0</version>
+    </dependency>
+    <dependency>
+    	<groupId>com.google.apis</groupId>
+    	<artifactId>google-api-services-youtube</artifactId>
+    	<version>v3-rev183-1.22.0</version>
+    </dependency>
+    <dependency>
+    	<groupId>org.jsoup</groupId>
+    	<artifactId>jsoup</artifactId>
+    	<version>1.10.2</version>
+    </dependency>
+    <dependency>
+    	<groupId>com.google.code.gson</groupId>
+    	<artifactId>gson</artifactId>
+    	<version>2.8.0</version>
+    </dependency>
+    <dependency>
+      <groupId>org.jibble</groupId>
+      <artifactId>jmegahal</artifactId>
+      <version>1.0</version>
+      <scope>system</scope>
+      <systemPath>C:/Users/fettuccine/Documents/workspace/Sad_Bot/lib/JMegaHal.jar</systemPath>
+    </dependency>
+  </dependencies>
+  <url>http://wyv.moe</url>
+  <organization>
+  	<name>wyv.moe</name>
+  </organization>
+</project>

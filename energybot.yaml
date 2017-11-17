@@ -1,0 +1,8 @@
+disabledSkills: [test, test, ChatSkill]
+disabledCommands: [test, test]
+commandChar: $
+botname: EnergyBot
+oauth: 'oauth:qav1s8a7bx2zd9fakgp9uo708fnzgu'
+primaryChannel: '#activeenergy'
+
+
