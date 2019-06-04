@@ -22,4 +22,4 @@ This program needs librarie JMegaHal and youtubedl-1.1
 ### Who do I talk to? ###
 
 * Twitter: @shady1765
-* ven@wyv.moe
+* {ven} @ {wyv.moe}
